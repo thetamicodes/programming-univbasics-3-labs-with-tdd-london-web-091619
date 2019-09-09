@@ -1,4 +1,4 @@
-first_number >= 1.floor; # Add your variables here
+first_number >= 0; # Add your variables here
 second_number > 0.floor;
 sum = first_number + second_number;
 difference = first_number - second_number;
